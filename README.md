@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GraceReilly
-- 👀 I’m interested in 3d and 2d animation in my spare time using Procreate ,Forger and Blender creating digital art.
+- 👀 I’m interested in 3d and 2d animation in my spare time using Procreate and Blender creating digital art.
 - 🌱 I’m currently learning a postgraduate course in Web Technologies in Dublin City University 
 - 💞️ I’m looking to increase my understanding and knowledge for full stack developement.
 - 📫 How to reach me - mobile 087 0664682, email reillygrace268@gmail.com
